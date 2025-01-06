@@ -1,0 +1,2 @@
+#cybersecurity-concepts/compliance  
+A BIA helps determine the criticality of IT systems and prioritize recovery efforts. It also helps establish recovery time objective (RTO) and recovery point objective (RPO)

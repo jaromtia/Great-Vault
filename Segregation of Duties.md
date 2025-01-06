@@ -1,0 +1,2 @@
+#cybersecurity-concepts/compliance 
+Segregation of duties, also called separation of duties, is used to reduce the potential for corruption or fraud within the organization. More than one person must be involved in a given process in order to complete that process.

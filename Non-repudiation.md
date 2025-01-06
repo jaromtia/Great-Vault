@@ -1,0 +1,2 @@
+#cybersecurity-concepts 
+protection against an individual falsely denying having performed a particular action. It provides the capability to determine whether a given individual took a particular action, such as created information, approved information or sent or received a message.

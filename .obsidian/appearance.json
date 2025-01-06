@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "accentColor": "#60beab",
+  "enabledCssSnippets": [
+    "colored-sidebar-items",
+    "cosmos-general-tweaks",
+    "cyanvoxels-general-tweaks",
+    "daily-note-themes",
+    "notebook-backgrounds",
+    "code-block"
+  ]
+}

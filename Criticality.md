@@ -1,0 +1,2 @@
+#cybersecurity-concepts/compliance 
+A measure of the degree to which an organization depends on the information or information system for the success of a mission or of a business function. NIST SP 800-60 Vol. 1, Rev. 1

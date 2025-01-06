@@ -1,0 +1,2 @@
+#cybersecurity-concepts/cloud 
+The cloud infrastructure is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider. NIST SP 800-145
