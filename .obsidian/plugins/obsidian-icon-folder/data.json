@@ -34,13 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "TCM SOC 101.md": "🧦",
-  "TCM Phishing.md": "🎣",
-  "TCM Network Security.md": "LiNetwork",
-  "TCM Detection Engineering.md": "🕵",
-  "TCM OSINT.md": "🔍",
-  "TCM External Pentest Playbook.md": "LiBookKey",
-  "TCM Practical Pentest.md": "LiPenBox",
-  "zSecurity Udemy course notes.md": "🟥",
-  "TCM Endpoint Security.md": "🖥"
+  "00 - notes/TCM Phishing.md": "🎣",
+  "00 - notes/TCM Detection Engineering.md": "🕵",
+  "00 - notes/TCM Endpoint Security.md": "🖥",
+  "00 - notes/TCM External Pentest Playbook.md": "LiBookKey",
+  "00 - notes/TCM Network Security.md": "LiNetwork",
+  "00 - notes/TCM OSINT.md": "🔍",
+  "00 - notes/TCM Practical Pentest.md": "LiPenBox",
+  "00 - notes/TCM SOC 101.md": "🧦",
+  "00 - notes/zSecurity Udemy course notes.md": "🟥"
 }

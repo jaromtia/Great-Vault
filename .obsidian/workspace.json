@@ -27,25 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Python 201 For Hackers.md",
+                "file": "00 - notes/TCM Detection Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCM Python 201 For Hackers"
+              "title": "TCM Detection Engineering"
             }
           },
           {
-            "id": "86cc02b63f0662fe",
+            "id": "1c81ddce21144312",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "00 - notes/ISC2 Certified in Cybersecurity (CC).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "ISC2 Certified in Cybersecurity (CC)"
             }
           }
         ],
@@ -185,9 +186,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "00 - notes/ISC2 Certified in Cybersecurity (CC).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ISC2 Certified in Cybersecurity (CC)"
             }
           },
           {
@@ -264,20 +267,22 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "86cc02b63f0662fe",
+  "active": "a0ef5dfb4b313b73",
   "lastOpenFiles": [
+    "00 - notes/zSecurity Udemy course notes.md",
+    "00 - notes/TCM Detection Engineering.md",
+    "00 - notes/TCM Endpoint Security.md",
+    "00 - notes/TCM Python 201 For Hackers.md",
     "Decorators.md",
-    "TCM Python 201 For Hackers.md",
-    "TCM SOC 101.md",
-    "TCM Threat Intelligence.md",
-    "TCM Security Information and Event Management.md",
+    "00 - notes/TCM SOC 101.md",
+    "00 - notes/TCM Threat Intelligence.md",
+    "00 - notes/TCM Security Information and Event Management.md",
     "Types of Logs.md",
     "04 - assets/Pasted image 20250102172926.png",
     "04 - assets/Pasted image 20250102172817.png",
     "Log Management.md",
-    "TCM Endpoint Security.md",
     "Metasploit.md",
-    "TCM Network Security.md",
+    "00 - notes/TCM Network Security.md",
     "Business Impact Analysis.md",
     "Business Email Compromise (BEC).md",
     "AAA Framework.md",
@@ -292,8 +297,6 @@
     "Public Cloud.md",
     "Platform as a Service.md",
     "Non-repudiation.md",
-    "Disaster Recovery.md",
-    "Degaussing.md",
     "04 - assets/Pasted image 20241231101545.png",
     "04 - assets/Pasted image 20241231100800.png",
     "04 - assets/Pasted image 20241230164707.png",
