@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSignature",
+      "LiAtom",
+      "🐍",
       "🖥",
-      "🟥",
-      "LiPenBox",
-      "LiBookKey",
-      "🔍"
+      "🟥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,10 +37,22 @@
   "00 - notes/TCM Phishing.md": "🎣",
   "00 - notes/TCM Detection Engineering.md": "🕵",
   "00 - notes/TCM Endpoint Security.md": "🖥",
-  "00 - notes/TCM External Pentest Playbook.md": "LiBookKey",
-  "00 - notes/TCM Network Security.md": "LiNetwork",
+  "00 - notes/TCM External Pentest Playbook.md": {
+    "iconName": "LiBookKey",
+    "iconColor": "#2297bf"
+  },
+  "00 - notes/TCM Network Security.md": {
+    "iconName": "LiNetwork",
+    "iconColor": "#aac32c"
+  },
   "00 - notes/TCM OSINT.md": "🔍",
-  "00 - notes/TCM Practical Pentest.md": "LiPenBox",
+  "00 - notes/TCM Practical Pentest.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#f50000"
+  },
   "00 - notes/TCM SOC 101.md": "🧦",
-  "00 - notes/zSecurity Udemy course notes.md": "🟥"
+  "00 - notes/zSecurity Udemy course notes.md": "🟥",
+  "00 - notes/TCM Python 201 For Hackers.md": "🐍",
+  "00 - notes/TCM Security Information and Event Management.md": "🖥",
+  "00 - notes/TCM Threat Intelligence.md": "LiSignature"
 }
