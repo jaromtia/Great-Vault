@@ -30,9 +30,9 @@ Get-ItemProperty -Path "Registry::-HKCU\Software\Microsoft\Windows\CurrentVersio
 ```
 ![[Pasted image 20250107151227.png]]
 
-# Example of attacker
+# Example of attacker creating persistence with registry keys
 
-*Within msfconsole and after gaining a reverse tcp shell*
+*Within msfconsole on attacker machine and after gaining a reverse tcp shell*
 
 ```bash
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "NotABackdoor" /t REG_SZ /d "C:\Users\tcm\Downloads\notmalware.exe" /f
@@ -54,3 +54,9 @@ reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Run"
 Get-ItemProperty -Path "Registry::-HKCU\Software\Microsoft\Windows\CurrentVersion\Run"
 ```
 ![[Pasted image 20250107151741.png]]
+
+# Enumerate using Autorun
+
+[[Autoruns]]
+
+# 
