@@ -1,3 +1,4 @@
+#resources/obsidian
 ### Offensive Security
 
 1. **# ReconOSINT** - 🟦 Blue
