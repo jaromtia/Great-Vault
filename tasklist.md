@@ -1,6 +1,6 @@
 #tool-blue/windows 
 
-
+**Run as administrator to see more processes and details**
 ![[Pasted image 20250107081820.png]]
 
 Filter examples:
