@@ -38,5 +38,7 @@ Registry Modifications
 
 [[Metasploit]]
 
-# Windows Network Analysis
-`net view`
+[[Msfvenom]]
+# [[Windows Network Analysis]]
+
+# [[Windows Process]] Analysis
