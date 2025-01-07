@@ -12,7 +12,7 @@
 ## Tasklist but on steroids
 [[process explorer]]
 
-# System Process
+# System Process 
 - Kernel-mode system thread 
 - Manages CPU, memory, disk
 - device drivers, hardware, process scheduling, etc.
@@ -40,3 +40,34 @@ If anything is different from the system process and is saying it is the system 
 ![[Pasted image 20250107110932.png]]
 
 - csrss.exe will often look like an orphaned process since [[#smss.exe (Session Manager Subsystem)]] child process self-terminates
+
+# wininit.exe (Windows Initialization)
+![[Pasted image 20250107113554.png]]
+
+# services.exe (Service Control Manager)
+Child process of [[#wininit.exe (Windows Initialization)]]
+![[Pasted image 20250107113647.png]]
+
+# svchost.exe (Service Host)
+Child process of [[#services.exe (Service Control Manager)]]
+normal to have a LOT of instances.
+**Often a target for attackers to hide malware or bad processes**
+![[Pasted image 20250107113821.png]]
+
+# lsass.exe (Local Security Authority Subsystem Service)
+common mimikatz target by attackers
+Child process of [[#wininit.exe (Windows Initialization)]]
+![[Pasted image 20250107113947.png]]
+
+# winlogon.exe (Windows Logon)
+![[Pasted image 20250107114057.png]]
+
+# explorer.exe (Windows Explorer)
+![[Pasted image 20250107114202.png]]
+
+# Process Investigation
+![[Pasted image 20250107114353.png]]
+
+[[SANS_DFPS]]
+
+

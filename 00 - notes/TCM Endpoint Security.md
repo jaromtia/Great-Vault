@@ -42,3 +42,5 @@ Registry Modifications
 # [[Windows Network Analysis]]
 
 # [[Windows Processes and Tools]] 
+
+# [[Windows Registry]]
