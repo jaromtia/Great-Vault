@@ -28,6 +28,6 @@ within `/home/tcp/malware` **create a python3 simple server** to download the ma
 `python3 -m http.server 8000`
 
 On Windows machine enter in the http server:
-![[Pasted image 20250106164645.png]]
+![[download-exploit-tcm-example.png]]
 
 ### Creating shares

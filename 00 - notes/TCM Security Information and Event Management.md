@@ -12,9 +12,9 @@
 ## SIEM Deployment Models
 ### SIEM Components
 
-![[Pasted image 20250102172817.png]]
+![[SIEM-components.png]]
 
-![[Pasted image 20250102172926.png]]
+![[SIEM-deployment-methods.png]]
 
 ## [[Types of Logs]]
 

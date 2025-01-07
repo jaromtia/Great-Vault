@@ -2,7 +2,7 @@
 
 helps determine system or process information
 `wmic process where processid=[PID] get name, parentprocessid, processid`
-![[Pasted image 20250107082405.png]]
+![[wmic-commandline-example.png]]
 
 General search for any parentprocess piped into `find` query
 `wmic process get name, parentprocessid, processid | find "192`

@@ -13,7 +13,7 @@
 
 zenmap
 
-![[Pasted image 20241008075358.png]]
+![[zenmap-example.png]]
 
 # MITM Attacks
 

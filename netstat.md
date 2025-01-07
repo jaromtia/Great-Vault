@@ -7,4 +7,4 @@
 - `b` - displays file name
 
 Example output:
-![[Pasted image 20250107081258.png]]
+![[netstat-output.png]]

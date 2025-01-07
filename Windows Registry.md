@@ -21,14 +21,14 @@ Installed services on system
 ```bash
 reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Run"
 ```
-![[Pasted image 20250107150958.png]]
+![[reg-query-output.png]]
 
 # Finding registry keys with Powershell
 
 ```Powershell
 Get-ItemProperty -Path "Registry::-HKCU\Software\Microsoft\Windows\CurrentVersion\Run"
 ```
-![[Pasted image 20250107151227.png]]
+![[powershell-registry-query.png]]
 
 # Example of attacker creating persistence with registry keys
 
@@ -39,7 +39,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "NotABackdoor" /
 ```
 
 ## Finding the bad registry key with Registry Editor
-![[Pasted image 20250107151704.png]]
+![[registry-editor-view.png]]
 
 
 ## Finding the bad registry key with command prompt
@@ -47,13 +47,13 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "NotABackdoor" /
 ```bash
 reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Run"
 ```
-![[Pasted image 20250107151722.png]]
+![[commandline-query-hkcu.png]]
 
 ## Finding the bad registry key with powershell
 ```powershell
 Get-ItemProperty -Path "Registry::-HKCU\Software\Microsoft\Windows\CurrentVersion\Run"
 ```
-![[Pasted image 20250107151741.png]]
+![[powershell-reg-query-HKCU.png]]
 
 # Enumerate using Autorun
 

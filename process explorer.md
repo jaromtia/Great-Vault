@@ -3,4 +3,4 @@
 
 Tasklist but on steroids
 
-![[Pasted image 20250107105956.png]]
+![[process-explorer.png]]

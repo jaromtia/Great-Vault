@@ -9,7 +9,7 @@ Key:
 🟨 = unsigned or unknown publisher
 🟥 = potential security risk
 
-![[Pasted image 20250107152142.png]]
+![[autorun-gui-view.png]]
 
 You can disable registries with this tool
 
@@ -33,12 +33,12 @@ New-AutoRunsBaseLine -Verbose -FilePath .\CurrentState.ps1
 # How to use
 
 Run Autorun twice. One for the baseline of a machine that you believe to be fairly safe. The other of the current state of the machine
-![[Pasted image 20250107155415.png]]
+![[autorun-baseline-currentstate.png]]
 After that you can run
 ```powershell
 Compare-AutoRunsBaseLine -ReferenceBaseLineFile .\Baseline.ps1 -DifferentBaseLineFile .\CurrentState.ps1
 ```
 
 This will show the differences between baselines for you.
-![[Pasted image 20250107155256.png]]
+![[autorun-baseline-comparison-tcm.png]]
 

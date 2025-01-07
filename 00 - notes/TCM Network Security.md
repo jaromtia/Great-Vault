@@ -9,16 +9,16 @@
 - User Datagram Protocol ([[UDP]])
 
 IPv4 Header
-![[Pasted image 20241230085242.png]]
+![[IPV4-header.png]]
 
 TCP Header
-![[Pasted image 20241230085631.png]]
+![[TCP-header.png]]
 
 UDP Header
-![[Pasted image 20241230085706.png]]
+![[UDP-header.png]]
 
 [[Three-Way Handshake]]
-![[Pasted image 20241230090532.png]]
+![[three-way-handshake.png]]
 
 Common Ports
 - 21 File Transfer Protocol

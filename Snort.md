@@ -9,7 +9,7 @@ IDS/IPS Mode
 ## Snort Rule Syntax
 
 Snort Rule:
-![[Pasted image 20241231101545.png]]
+![[snort-rule-syntax-example.png]]
 
 ## Snort Rule examples
 Potential .exe download over HTTP

@@ -1,6 +1,6 @@
 #resources/windows 
 
-![[Pasted image 20250107081709.png]]
+![[windows-processes-heirarchy.png]]
 
 # Tools:
 ## Finding general processes
@@ -17,13 +17,13 @@
 - Manages CPU, memory, disk
 - device drivers, hardware, process scheduling, etc.
 ## Always true
-![[Pasted image 20250107110317.png]]
+![[system-process.png]]
 
 If anything is different from the system process and is saying it is the system process then this is cause for alerting
 
 # smss.exe (Session Manager Subsystem)
 
-![[Pasted image 20250107110531.png]]
+![[system-process-heirarchy.png]]
 
 - First Master instance of process created child instances
 - child instances initializes components
@@ -31,42 +31,42 @@ If anything is different from the system process and is saying it is the system 
 	- normally will initialize [[#csrss.exe]]
 
 ## Always true
-![[Pasted image 20250107110710.png]]
+![[windows-session-manager-true.png]]
 - Should only be one smss.exe as children instances should always self-termiante
 
 # csrss.exe (Client/Server Runtime Subsystem)
 ## Always true
 
-![[Pasted image 20250107110932.png]]
+![[csrss-exe-true.png]]
 
 - csrss.exe will often look like an orphaned process since [[#smss.exe (Session Manager Subsystem)]] child process self-terminates
 
 # wininit.exe (Windows Initialization)
-![[Pasted image 20250107113554.png]]
+![[winiti-exe-true.png]]
 
 # services.exe (Service Control Manager)
 Child process of [[#wininit.exe (Windows Initialization)]]
-![[Pasted image 20250107113647.png]]
+![[SCM-true.png]]
 
 # svchost.exe (Service Host)
 Child process of [[#services.exe (Service Control Manager)]]
 normal to have a LOT of instances.
 **Often a target for attackers to hide malware or bad processes**
-![[Pasted image 20250107113821.png]]
+![[svchost-exe-true.png]]
 
 # lsass.exe (Local Security Authority Subsystem Service)
 common mimikatz target by attackers
 Child process of [[#wininit.exe (Windows Initialization)]]
-![[Pasted image 20250107113947.png]]
+![[lsass-exe-true.png]]
 
 # winlogon.exe (Windows Logon)
-![[Pasted image 20250107114057.png]]
+![[winlogon-exe-true.png]]
 
 # explorer.exe (Windows Explorer)
-![[Pasted image 20250107114202.png]]
+![[explorer-exe-true.png]]
 
 # Process Investigation
-![[Pasted image 20250107114353.png]]
+![[registry-analysis-method.png]]
 
 [[SANS_DFPS]]
 

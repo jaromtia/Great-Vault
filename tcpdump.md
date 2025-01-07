@@ -11,7 +11,7 @@ must specify which interface to collect packets from
 Shows all interfaces available to take from 
 
 Example:
-![[Pasted image 20241230164707.png]]
+![[tcpdump-example.png]]
 
 ## Capture filters
 
