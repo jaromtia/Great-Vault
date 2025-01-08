@@ -8,24 +8,53 @@ type: course
 # 📚 # ISC2 Certified in Cybersecurity (CC)
 - **🏷️Tags** :   #01-2025 #course 
 ## 📝 Notes
+### Access Controls
 - [[Network Access Control]]
-- [[Business Impact Analysis]]
+-  [[Access Controls]]
+- [[Segregation of Duties]]
+- [[Defense in Depth]]
+- [[Explicit unauthorized access]]
+- [[Malicious unauthorized access]]
+### [[Phishing]]
+- [[Quid Pro Quo Attack]]
+
+### Business plan
 - [[Disaster Recovery Plan]]
 - [[Disaster Recovery]]
 - [[Business Continuity Plan]]
-- [[Risk analysis]]
 - [[Crime Prevention through Environmental Design (CPTED)]]
-- [[Defense in Depth]]
-- [[Access Controls]]
-- [[Segregation of Duties]]
+- [[Business Impact Analysis]]
+- [[Criticality]]
+
+#### [[Risk]]
+ - [[Quantitative Measures]]
+-  [[Risk analysis]]
+
+
+### Compliance
+- [[Degaussing]]
+- [[Zeroization]]
+- [[Authentication factor]]
+- [[Data Lifecycle Management]] (DLM)
+- [[Non-repudiation]]
+
+#### Encryption
+- [[Symmetric Encryption]]
+- [[Asymmetric Encryption]]
+- [[Advanced Encryption Standard]] (AES)
+### Cloud
 - [[Community Cloud]]
 - [[Private Cloud]]
 - [[Public Cloud]]
-- [[Criticality]]
-- [[Degaussing]]
+- [[Software as a Service]] (SaaS)
 - [[Infrastructure as a Service]] (Iaas)
 - [[Platform as a Service]] (PaaS)
-- [[Non-repudiation]]
+	- [[When to use SaaS vs IaaS vs PaaS]]
+
+### Networking
+- [[Connection-oriented protocol]]
+- [[Connectionless protocols]]
+
 ## ❓ Questions
 - 
 
