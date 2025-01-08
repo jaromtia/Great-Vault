@@ -40,7 +40,28 @@ Registry Modifications
 
 [[Msfvenom]]
 # [[Windows Network Analysis]]
+- Tools 
+	- net 
+	- netstat 
+	- sysinternals 
+		- **Autoruns**  
+		- tcpview 
 
 # [[Windows Processes and Tools]] 
+- Tools 
+	- tasklist 
+	- wmic 
+	- process explorer 
+	- services.msc 
+	- Task Scheduler 
+- Normal Windows Processes 
 
 # [[Windows Registry]]
+- Tools 
+	- Registry Editor 
+	- Windows Forensic Artifact Checklist
+	- **Autoruns**
+- Useful Registries to know
+- How to find registry keys 
+
+# [[TCM Endpoint Analysis Challenge 1]]

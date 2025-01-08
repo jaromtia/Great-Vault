@@ -3,6 +3,7 @@
 # Tools
 [[Registry Editor]]
 [[Windows Forensic Artifact Checklist]]
+[[Autoruns]] <-- super important tool both GUI and command line for finding baselines
 
 
 # Useful Registries to Know
@@ -55,8 +56,3 @@ Get-ItemProperty -Path "Registry::-HKCU\Software\Microsoft\Windows\CurrentVersio
 ```
 ![[powershell-reg-query-HKCU.png]]
 
-# Enumerate using Autorun
-
-[[Autoruns]]
-
-# 

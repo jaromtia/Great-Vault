@@ -294,5 +294,8 @@ Supply Chain Attacks
 - Endpoint Security Monitoring 
 - Creating Malware
 - Windows Network Analysis
+- Windows Processes and Tools
+- Windows Registry
+- Windows Services 
 [[TCM Security Information and Event Management]]
 [[TCM Threat Intelligence]]

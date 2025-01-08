@@ -15,6 +15,7 @@ type: course
 - [[Defense in Depth]]
 - [[Explicit unauthorized access]]
 - [[Malicious unauthorized access]]
+- [[Fail-secure]]
 ### [[Phishing]]
 - [[Quid Pro Quo Attack]]
 
@@ -25,6 +26,8 @@ type: course
 - [[Crime Prevention through Environmental Design (CPTED)]]
 - [[Business Impact Analysis]]
 - [[Criticality]]
+- [[Succession Planning]]
+- [[Service Level Agreement]]
 
 #### [[Risk]]
  - [[Quantitative Measures]]
@@ -54,6 +57,7 @@ type: course
 ### Networking
 - [[Connection-oriented protocol]]
 - [[Connectionless protocols]]
+- [[OSI Model]]
 
 ## ❓ Questions
 - 
