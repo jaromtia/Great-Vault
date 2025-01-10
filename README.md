@@ -21,5 +21,23 @@ Contains all kanban boards
 Contains essentially all the notes that are connected to a main idea.
 
 # Community Plugins
-<img width="124" alt="image" src="https://github.com/user-attachments/assets/1235adca-a175-4db8-b796-65a897dd862a" />
+Advanced Tables
+Annotator
+Better Word Count 
+Calendar 
+Dataview
+Excalidraw 
+Full Calendar 
+Git 
+Iconize
+Kanban 
+Mathpad 
+Mind Map 
+Pomodoro Timer 
+Spaced Repitition 
+Style Settings 
+TagFolder 
+Templater 
+Various Complements
+
 
