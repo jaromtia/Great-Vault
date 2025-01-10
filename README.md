@@ -2,4 +2,4 @@ Welcome to my Great-Vault where I plan to put all of my notes for learning and s
 
 1/10/2025 Graph
 
-![[1-10-25-vault-graph.png]]
+![[./assets/1-10-25-vault-graph.png]]
