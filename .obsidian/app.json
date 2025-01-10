@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "04 - assets",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "06 - nodes"
 }
