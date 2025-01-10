@@ -39,4 +39,4 @@ Get-CimInstance -Class Win32_Service -Filter "Name = '[service-name]'" | Select-
 ```
 # GUI
 
-![[Pasted image 20250108140649.png]]
+![[svc.msc.png]]

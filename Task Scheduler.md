@@ -1,7 +1,7 @@
 #tool-blue/windows 
 
 Allows you to see any scheduled tasks on windows. Works like a GUI for windows CRON jobs
-![[Pasted image 20250108141804.png]]
+![[task-scheduler.png]]
 
 # Command-line
 
@@ -16,4 +16,4 @@ Query specific tasks
 ```
 schtasks /query /tn "SystemCleanup" /v /fo LIST
 ```
-![[Pasted image 20250108142024.png]]
+![[schtasks-command-line.png]]
