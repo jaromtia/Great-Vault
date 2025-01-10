@@ -28,6 +28,7 @@ type: course
 - [[Criticality]]
 - [[Succession Planning]]
 - [[Service Level Agreement]]
+- [[Configuration management]] 
 
 #### [[Risk]]
  - [[Quantitative Measures]]

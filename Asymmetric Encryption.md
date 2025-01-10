@@ -20,7 +20,7 @@ To decrypt a message, a computer combines the sender's public key with its own p
 
 # Use Cases
 
-Digital signatures
+[[Digital signatures]]
 - Hash the Message
 - Encrypt the Digest
 - Attach and Send 
