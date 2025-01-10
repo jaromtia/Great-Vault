@@ -21,4 +21,5 @@ Contains all kanban boards
 Contains essentially all the notes that are connected to a main idea.
 
 # Community Plugins
+<img width="124" alt="image" src="https://github.com/user-attachments/assets/1235adca-a175-4db8-b796-65a897dd862a" />
 
