@@ -19,6 +19,7 @@ The executives of the newly merged company have expressed interest in **integrat
 - [[D482 Merged Topology Concept]]
 - [[D482 Company A Risk Vulnerability Report]]
 - [[D482 Company B Risk Vulnerability Report]]
+- [[D482 Merged Document]]
 ## ❓ Questions
 - [[D482 Rubric]]
 
