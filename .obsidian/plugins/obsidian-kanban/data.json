@@ -1,3 +1,10 @@
 {
-  "new-note-folder": "05 - kanban"
+  "new-note-folder": "05 - kanban",
+  "tag-sort": [
+    {
+      "tag": "#kanban"
+    }
+  ],
+  "tag-colors": [],
+  "new-note-template": "02 - templates/Note.md"
 }

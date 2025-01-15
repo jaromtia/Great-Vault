@@ -19,17 +19,17 @@
 
 **4. Devices and their Logical Assignments:**
 
-| Device                 | OSI Layer      | TCP/IP Layer |
-|------------------------|----------------|--------------|
-| Firewall               | Network        | Internet     |
-| Router                 | Network        | Internet     |
-| Servers                | Application    | Application  |
-| Cabling                | Physical       | Link         |
-| VPN                    | Data Link, Network | Transport, Internet |
-| Laptops and Workstations | Application    | Application  |
-| WAP                    | Data Link      | Link         |
-| Printers               | Application    | Application  |
-| Cloud Solution         | Application    | Application  |
+| Device                   | OSI Layer          | TCP/IP Layer                        |
+| ------------------------ | ------------------ | ----------------------------------- |
+| Firewall                 | Network            | Network                             |
+| Router                   | Network            | Network                             |
+| Servers                  | Application        | Application                         |
+| Cabling                  | Physical           | Network Access Layer                |
+| VPN                      | Data Link, Network | Network Access Layer, Network Layer |
+| Laptops and Workstations | Application        | Application                         |
+| WAP                      | Data Link          | Network Access Layer                |
+| Printers                 | Application        | Application                         |
+| Cloud Solution           | Application        | Application                         |
 
 **5. Combined Vulnerabilities from Risk Assessments:**
 
