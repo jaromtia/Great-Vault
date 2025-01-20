@@ -22,4 +22,27 @@ Get all sysmon events
 Get-WinEvent -LogName "Microsoft-Windows-Sysmon/Operational"
 ```
 
-Filters
+Filters to collect logs with specific event IDs 
+```powershell
+Get-WinEvent -FilterHashtable @{logname="Microsoft-Windows-Sysmon/Operational"; id=1}
+```
+
+Better formatting
+```powershell
+Get-WinEvent -FilterHashtable @{logname="Microsoft-Windows-Sysmon/Operational"; id=3} -MaxEvents 1 | Format-List *
+```
+
+Filtering for network connections with specific ports 
+```powershell
+Get-WinEvent -LogName 'Microsoft-Windows-Sysmon/Operational' -FilterXPath "*[System/EventID=3 and EventData[Data[@Name='DestinationPort']='4444']]" | Format-List *
+```
+
+Searching with a specific process ID 
+```powershell
+Get-WinEvent -LogName 'Microsoft-Windows-Sysmon/Operational' -FilterXPath "*[System/EventID=1]"
+```
+
+Searching with a specific process ID and better formatting 
+```powershell
+Get-WinEvent -LogName 'Microsoft-Windows-Sysmon/Operational' -FilterXPath "*[System/EventID=1 and EventData[Data[@Name='ProcessId']='<ENTER YOUR PID HERE>']]" | Format-List *
+```
