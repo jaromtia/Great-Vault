@@ -8,3 +8,5 @@ Sysmon install
 Sysmon configuration file template with default high-quality event tracing
 - https://github.com/SwiftOnSecurity/sysmon-config
 - [https://github.com/olafhartong/sysmon-modular](https://github.com/olafhartong/sysmon-modular)
+
+[[Sysmon Events]]
