@@ -2,3 +2,4 @@
 
 # Tools
 [[Event Viewer]]
+[[wevtutil]]
