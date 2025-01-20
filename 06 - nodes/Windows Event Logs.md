@@ -3,3 +3,4 @@
 # Tools
 [[Event Viewer]]
 [[wevtutil]]
+[[Get-WinEvent]]
