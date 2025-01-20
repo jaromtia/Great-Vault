@@ -9,6 +9,7 @@ type: course
 - **🏷️Tags** :   #01-2025 #course/D487 
 ## 📝 Notes
 - [[Secure Software Design Terminology]]
+- [[Secure Coding Practices]]
 
 ## ❓ Questions
 1. What are the major phases of the SDLC?
