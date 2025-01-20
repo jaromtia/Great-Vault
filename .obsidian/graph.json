@@ -32,14 +32,14 @@
       "query": "tag:#course  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     },
     {
       "query": "tag:#coding  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16711914
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 11.5916955017301,
   "linkStrength": 0.852941176470588,
   "linkDistance": 88,
-  "scale": 0.32133638605036,
-  "close": false
+  "scale": 0.3213363860503603,
+  "close": true
 }
