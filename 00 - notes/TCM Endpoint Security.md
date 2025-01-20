@@ -65,3 +65,5 @@ Registry Modifications
 - How to find registry keys 
 
 # [[TCM Endpoint Analysis Challenge 1]]
+
+[[Windows Event Logs]]
