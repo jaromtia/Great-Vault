@@ -26,7 +26,7 @@
 [[threat assessment]]
 [[V-model]]
 [[vulnerability management]]
-[[Zed Attack Proxy]]
+[[Zed Attack Proxy]] 
 [[Waterfall Methodology]]
 [[white box testing]]
 [[black box testing]]
