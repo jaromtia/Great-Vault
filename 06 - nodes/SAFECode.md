@@ -1,0 +1,1 @@
+Software Assurance Forum for Excellence in Code (SAFECode) is a nonprofit organization dedicated to increasing trust in information and communications technology products and services through the advancement of effective software assurance methods. 
