@@ -4,6 +4,14 @@
 
 [[netstat]]
 
+# Important directories and files
+
+## Proc 
+`/proc` - Memory of system processes or system resource
+
+`/proc/[processid]/environ` - environmental variables of process 
+
+`/proc/[processid]/exe` - symbolic link of executable file
 # Methodology
 
 ```bash
