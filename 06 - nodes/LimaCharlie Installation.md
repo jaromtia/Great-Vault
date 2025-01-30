@@ -95,4 +95,15 @@ LimaCharlie allows you to run console commands directly on the machine. There is
 
 Can access the filesystem of the machine
 ![[Pasted image 20250130051222.png]]
+Show what is connected to the host machines network or what is running and connecting out 
+![[Pasted image 20250130051318.png]]
+
+See what processes are being ran 
+![[Pasted image 20250130051352.png]]
+
+See what services are being ran 
+![[Pasted image 20250130051411.png]]
+
+Has containment capabilities
+![[Pasted image 20250130051441.png]]
 
