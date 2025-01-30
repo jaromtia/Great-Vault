@@ -74,7 +74,25 @@ Adapter Key - integrations
 
 ![[Pasted image 20250130050723.png]]
 
-Downloads
+After key is created we can download the agent installer for the sensor to connect to. 
 
+Scroll down for downloads 
 ![[Pasted image 20250130050756.png]]
+
+Copy sensor key and run the executable that was downloaded in powershell (admin)
+
+Windows: 
+![[Pasted image 20250130050906.png]]
+
+Host should be very quickly added to the list:
+![[Pasted image 20250130050949.png]]
+
+Going into that endpoint we will see details specific to that machine
+![[Pasted image 20250130051048.png]]
+
+LimaCharlie allows you to run console commands directly on the machine. There is a pre-set amount of commands that can be range
+![[Pasted image 20250130051145.png]]
+
+Can access the filesystem of the machine
+![[Pasted image 20250130051222.png]]
 
