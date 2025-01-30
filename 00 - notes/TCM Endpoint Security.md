@@ -66,12 +66,12 @@ Registry Modifications
 
 # [[TCM Endpoint Analysis Challenge 1]]
 
-[[Windows Event Logs]]
+# [[Windows Event Logs]]
 
-[[Linux Network Analysis]]
+# [[Linux Network Analysis]]
 
-[[Linux Process Analysis]]
+# [[Linux Process Analysis]]
 
-[[Linux Cron Jobs]]
+# [[Linux Cron Jobs]]
 
-[[LimaCharlie]]
+# [[LimaCharlie]]
