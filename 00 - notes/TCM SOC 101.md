@@ -298,4 +298,20 @@ Supply Chain Attacks
 - Windows Registry
 - Windows Services 
 [[TCM Security Information and Event Management]]
+- Types of logs 
+- Log formats 
+- Log Analysis 
+- Splunk 
 [[TCM Threat Intelligence]]
+- Types of threat intelligence 
+- Threat intelligence cycle 
+- Different threat models 
+- YARA 
+- MISP 
+[[TCM Digital Forensics]]
+- Investigation process 
+- Order of Volatility
+- Chain of custody 
+- FTK Imager 
+- Windows Forensics 
+- Volatility 
