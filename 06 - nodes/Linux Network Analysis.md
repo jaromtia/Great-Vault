@@ -4,6 +4,11 @@
 
 [[netstat]]
 
+# Linux Commands 
+`lsof`
+
+
+```
 # Important directories and files
 
 ## Proc 
