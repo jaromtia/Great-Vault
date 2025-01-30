@@ -6,5 +6,5 @@
 [[LNK Files]]
 [[Prefetch Files]]
 [[Jump Lists]]
-[[Windows Forensics]]
+[[Windows Forensics Artifacts]]
 [[Volatility Digital Forensics]]
