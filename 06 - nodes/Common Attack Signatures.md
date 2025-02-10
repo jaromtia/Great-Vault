@@ -20,4 +20,22 @@
 - Look for SQL keywords 
 	- [[SQL Syntax]]
 - Look for injection characters
-	- ` "" ''  ` 
+	- ` "" '' ; # -  ` 
+	- Can be URL encoded 
+- Malformed entries or errors within database logs
+- [Payload all the things examples](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) 
+# Cross-Site Scripting
+- Executing malicious code by injecting JavaScript 
+	- Hijack user sessions 
+	- Steal cookies 
+	- Deface websites 
+- Look for script tag indicators 
+- look for event handlers 
+	- onload, onclick, onmouseover
+	- References to script tags 
+	- References to "javascript" 
+- Special characters 
+- URL-encoded injection characters 
+	- [URL encoded characters](https://www.w3schools.com/tags/ref_urlencode.ASP)
+
+# Command Injection
