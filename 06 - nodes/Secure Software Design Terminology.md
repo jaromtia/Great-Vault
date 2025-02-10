@@ -1,4 +1,4 @@
-d#course/D487 
+#course/D487 
 
 [[abstract syntax tree]]
 [[Agile Methodology]]
