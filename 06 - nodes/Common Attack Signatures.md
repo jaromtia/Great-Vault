@@ -39,3 +39,21 @@
 	- [URL encoded characters](https://www.w3schools.com/tags/ref_urlencode.ASP)
 
 # Command Injection
+- Executing arbitrary OS commands 
+- Look for special characters that separate commands 
+- Look for references to commands or utilities 
+- URL-encoded injection commands 
+
+# Path Traversal / Local File Inclusion 
+- Accessing files outside of the web root 
+	- include or execute unintended files/scripts
+- Path Traversal 
+	- Access files/directories outside of the web root 
+	- enumerate the system, read hardcoded credentials 
+- Local File Inclusion (LFI)
+	- Include a local file from the system 
+	- Enumerate the system, read hardcoded credentials 
+	- Execute scripts / remote code execution 
+- Look for path traversal sequences 
+	- URL Encoded characters 
+- Look for sensitive file paths 

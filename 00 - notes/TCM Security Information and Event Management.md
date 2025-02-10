@@ -22,6 +22,6 @@
 
 ## [[Common Attack Signatures]]
 
-## [[Log Analysis]]
+## [[Command Line Log Analysis]]
 
 ## [[Splunk]]
