@@ -27,7 +27,10 @@ Find specific malicious tools within logs
 `grep "Mozilla/5.0 (Hydra)" access.log | awk '{print $1}' | sort | uniq -c`
 
 Find bad responses 
-`grep "Mozilla/5.0 (Hydra)" access.log | awk '' | sort | uniq -c`
+`grep "Mozilla/5.0 (Hydra)" access.log | awk '$9 > 200' | sort | uniq -c`
+
+Search by a specific timestamp for a specific endpoint
+grep "17/Jul/2024:18:49:02 - 0400" access.log | grep -v "login.php"
 ## Online tools to analyze artifacts 
 - [https://whois.domaintools.com/](https://whois.domaintools.com/)
 - [https://talosintelligence.com/](https://talosintelligence.com/)
