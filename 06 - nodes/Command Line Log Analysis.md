@@ -24,7 +24,10 @@ Finds all unique user-agent strings
 `cut -d "\"" -f 6 access.log | sort | uniq -c | sort -nr`
 
 Find specific malicious tools within logs
-`grep "Mozilla/5.0 (Hydra)`
+`grep "Mozilla/5.0 (Hydra)" access.log | awk '{print $1}' | sort | uniq -c`
+
+Find bad responses 
+`grep "Mozilla/5.0 (Hydra)" access.log | awk '' | sort | uniq -c`
 ## Online tools to analyze artifacts 
 - [https://whois.domaintools.com/](https://whois.domaintools.com/)
 - [https://talosintelligence.com/](https://talosintelligence.com/)
