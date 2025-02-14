@@ -2,7 +2,7 @@
 
 ![[Pyramid of Pain model.png]]
 
-Illustrates indicators of compromise and prioritizing data. All attackers leaves traces 
+Illustrates from top to bottom how painful it is for an attacker if a defender is focusing on these categories 
 
 
 ## References 
