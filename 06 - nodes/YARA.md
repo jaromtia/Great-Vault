@@ -1,6 +1,6 @@
 #tool-blue/threat-intelligence 
 
-```bash
+```json
 rule silent_banker : banker
 {
     meta:
