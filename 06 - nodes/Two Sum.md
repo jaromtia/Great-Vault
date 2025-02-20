@@ -87,7 +87,45 @@ The second train of thought is, without changing the array, can we use additiona
 
 # Solution
 #coding/python 
-
-```python3 
-
+## Brute Force 
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[j] == target - nums[i]:
+                    return [i, j]
+        return []
+            
 ```
+
+## Two-pass Hash Table
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap = {}
+        for i in range(len(nums)):
+            hashmap[nums[i]] = i
+        for i in range(len(nums)):
+            complement = target - nums[i]
+            if complement in hashmap and hashmap[complement] != i:
+                return [i, hashmap[complement]]
+        # If no valid pair is found, return an empty list
+        return []
+```
+
+## One-pass Hash Table 
+
+```python
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap = {}
+        for i in range(len(nums)):
+            complement = target - nums[i]
+            if complement in hashmap:
+                return [i, hashmap[complement]]
+            hashmap[nums[i]] = i
+        # Return an empty list if no solution is found
+        return []
+```
+
