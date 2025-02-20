@@ -1,4 +1,4 @@
-#projects/tcm 
+ #projects/tcm 
 ## Types of Threat Intelligence
 
 - Strategic Threat Intelligence
