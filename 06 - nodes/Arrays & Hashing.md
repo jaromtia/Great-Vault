@@ -1,7 +1,7 @@
 #coding/arrays
 #coding/hashing
 
-[[Contains Duplicate]]
+[[Contains Duplicate]] - Easy Array
 [[Valid Anagram]]
 [[Two Sum]] 
 [[Group Anagrams]] 
