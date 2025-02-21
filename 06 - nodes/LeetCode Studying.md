@@ -7,10 +7,11 @@
 [[Two Pointers]]
 - [[Binary Search Problems]]
 - [[Sliding Window]]
-- [[Reverse Linked List]]
+- [[Linked List]]
+
 
 # Trees 
-- [[Tries]] 
+- [[Trees]] 
 - [[Backtracking]] 
 	- [[Graphs]] 
 	- [[1-D DP]]
