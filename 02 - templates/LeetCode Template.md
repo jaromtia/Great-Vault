@@ -1,5 +1,4 @@
-#coding/algorithm  
-
+#coding
 # Problem
 
 # Hint
