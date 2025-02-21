@@ -1,3 +1,4 @@
+#resources/logs 
 Some syntax structure 
 lack adherence to a schema 
 syslog 

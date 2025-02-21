@@ -19,7 +19,7 @@ type: note
 ---
 
 #  Note
-- **🏷️Tags** :  #01-2025 
+- **🏷️Tags** :  
 [ ](#anki-card)
 ## 📝 Notes
 - 

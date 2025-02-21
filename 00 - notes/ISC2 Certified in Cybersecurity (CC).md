@@ -6,7 +6,7 @@ type: course
 ---
 
 # 📚 # ISC2 Certified in Cybersecurity (CC)
-- **🏷️Tags** :   #01-2025 #course 
+- **🏷️Tags** :    #course 
 ## 📝 Notes
 ### Access Controls
 - [[Network Access Control]]

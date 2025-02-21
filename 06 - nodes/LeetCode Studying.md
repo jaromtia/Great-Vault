@@ -1,3 +1,4 @@
+#coding
 # Start
 [[Arrays & Hashing]]
 # T1
@@ -8,7 +9,7 @@
 - [[Sliding Window]]
 - [[Linked List]]
 
-Trees 
+# Trees 
 - [[Tries]] 
 - [[Backtracking]] 
 	- [[Graphs]] 

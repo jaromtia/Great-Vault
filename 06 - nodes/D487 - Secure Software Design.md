@@ -6,7 +6,7 @@ type: course
 ---
 
 # 📚 D487 - Secure Software Design
-- **🏷️Tags** :   #01-2025 #course/D487 
+- **🏷️Tags** :   #course/D487 
 ## 📝 Notes
 - [[Secure Software Design Terminology]]
 - [[Secure Coding Practices]]

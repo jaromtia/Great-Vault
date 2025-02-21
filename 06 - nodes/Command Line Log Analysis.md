@@ -1,3 +1,4 @@
+#resources/SOC 
 ## Linux Commands 
 
 `file [insert file name]` - file type 

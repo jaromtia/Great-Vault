@@ -1,3 +1,4 @@
+#resources/logs 
 Well-defined syntax and formatting 
 adherence to an agreed upon schema
 CSV, TSV 
