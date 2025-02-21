@@ -5,9 +5,9 @@
 
 [[Stack]] 
 [[Two Pointers]]
-- [[Binary Search]]
+- [[Binary Search Problems]]
 - [[Sliding Window]]
-- [[Linked List]]
+- [[Reverse Linked List]]
 
 # Trees 
 - [[Tries]] 
