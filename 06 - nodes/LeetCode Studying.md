@@ -1,4 +1,6 @@
 #coding
+
+![[Pasted image 20250222060644.png]]
 # Start
 [[Arrays & Hashing]]
 # T1
