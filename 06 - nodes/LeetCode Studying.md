@@ -11,7 +11,7 @@
 - [[Sliding Window]]
 - [[Linked List]]
 
-- [[Trees]] 
+# [[Trees]] 
 - [[Tries]]
 - [[Backtracking]] 
 	- [[Graphs]] 
