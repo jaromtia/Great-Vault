@@ -12,6 +12,7 @@
 
 # Trees 
 - [[Trees]] 
+- [[Tries]]
 - [[Backtracking]] 
 	- [[Graphs]] 
 	- [[1-D DP]]
