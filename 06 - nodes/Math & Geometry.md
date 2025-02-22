@@ -6,3 +6,4 @@
 [[Plus One]]
 [[Pow(x,n)]]
 [[Multiply Strings]]
+[[Detect Squares]]
