@@ -19,7 +19,7 @@
 	- [[2-D DP]]
 	- [[Bit Manipulation]] 
 	- [[Math & Geometry]] 
-- [[Heap / Priority Queue]]
+- [[Heap or Priority Queue]]
 	- [[Intervals]] 
 	- [[Greedy]] 
 	- [[Advanced Graphs]] 
