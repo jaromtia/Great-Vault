@@ -7,5 +7,5 @@ Serverless Architecture
 [[Infrastructure as a Service]]
 [[Platform as a Service]]
 [[Function as a Service]]
-SCADA/ICS
-Memorandum of Undertsan
+[[SCADA ICS]]
+Memorandum of Undertsanding
