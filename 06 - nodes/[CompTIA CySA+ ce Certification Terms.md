@@ -8,4 +8,4 @@ Serverless Architecture
 [[Platform as a Service]]
 [[Function as a Service]]
 [[SCADA ICS]]
-Memorandum of Undertsanding
+Memorandum of Understanding
