@@ -1,3 +1,4 @@
+#coding/algorithm 
 [[Best Time to Buy And Sell Stock]]
 [[Longest Substring Without Repeating Characters]]
 [[Longest Repeating Character Replacement]]
