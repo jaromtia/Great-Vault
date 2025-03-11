@@ -9,4 +9,3 @@ Serverless Architecture
 [[Function as a Service]]
 [[SCADA ICS]]
 Memorandum of Understanding
- 
