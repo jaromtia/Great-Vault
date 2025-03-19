@@ -11,6 +11,7 @@ Serverless Architecture
 Memorandum of Understanding
 
 # Need to know
+## Concepts
 [[Diamond Model of Intrusion Analysis]]
 [[tcpdump]]
 tcp scans 
@@ -21,6 +22,9 @@ EIRP
 BGP
 SNMP
 [[Port Numbers List]]
+
+## Vulnerabilities
+[[Heartbleed bug]]
 ## Laws
 FISMA
 HIPPA
