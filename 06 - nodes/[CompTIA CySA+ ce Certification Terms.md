@@ -13,4 +13,5 @@ Memorandum of Understanding
 [[Diamond Model of Intrusion Analysis]]
 [[tcpdump]]
 tcp scans 
+regex ip addresses
 
