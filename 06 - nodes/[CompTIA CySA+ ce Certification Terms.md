@@ -9,3 +9,8 @@ Serverless Architecture
 [[Function as a Service]]
 [[SCADA ICS]]
 Memorandum of Understanding
+
+[[Diamond Model of Intrusion Analysis]]
+[[tcpdump]]
+tcp scans 
+
