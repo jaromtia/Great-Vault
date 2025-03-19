@@ -10,6 +10,7 @@ Serverless Architecture
 [[SCADA ICS]]
 Memorandum of Understanding
 
+# Need to know
 [[Diamond Model of Intrusion Analysis]]
 [[tcpdump]]
 tcp scans 
@@ -19,8 +20,8 @@ Terminal Access Controller Access Control System (TACAS)
 EIRP
 BGP
 SNMP
-
-laws
+[[Port Numbers List]]
+## Laws
 FISMA
 HIPPA
 SOX
