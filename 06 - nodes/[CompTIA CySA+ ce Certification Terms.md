@@ -16,3 +16,6 @@ tcp scans
 regex ip addresses
 Terminal Access Controller Access Control System (TACAS)
 [[TOGAF]]
+EIRP
+BGP
+SNMP
