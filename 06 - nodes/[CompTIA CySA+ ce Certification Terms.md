@@ -22,7 +22,7 @@ EIRP
 BGP
 SNMP
 [[Port Numbers List]]
-
+[[Measured Boot]]
 ## Vulnerabilities
 [[Heartbleed bug]]
 ## Laws
