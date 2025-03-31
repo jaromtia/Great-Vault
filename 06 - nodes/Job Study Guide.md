@@ -38,26 +38,27 @@
 
 ## Incident Response Investigation
 
-1. Walk me through your process for investigating a suspected security incident from initial alert to resolution.
-2. What tools do you use for digital forensics and why?
-3. How do you prioritize incidents when multiple alerts are triggered simultaneously?
-4. Describe a challenging security incident you've investigated and how you resolved it.
-5. How do you maintain chain of custody during a security investigation?
-6. What are the key artifacts you look for when investigating a potentially compromised Windows system?
-7. What are the key artifacts you look for when investigating a potentially compromised Linux system?
-8. How do you approach memory forensics? What tools do you use?
-9. Explain your methodology for malware analysis.
-10. How do you document and communicate findings during an investigation?
-11. What considerations are important when performing incident response in cloud environments versus on-premises?
-12. How do you determine patient zero and the initial infection vector during an incident?
-13. Describe how you would investigate a potential data breach.
-14. What techniques would you use to determine the scope and impact of an incident?
-15. How do you balance between quick containment and thorough investigation during an active incident?
-16. How would you investigate suspicious activity in containerized or ephemeral environments?
-17. What's your approach to post-incident analysis and implementing lessons learned?
-18. How do you ensure your incident response process complies with relevant regulations (GDPR, HIPAA, etc.)?
-19. Describe how you would determine if an attacker still has access to your environment after an incident.
-20. How would you investigate an incident where logs may have been tampered with?
+1. Walk me through your
+2. process for investigating a suspected security incident from initial alert to resolution.
+3. What tools do you use for digital forensics and why?
+4. How do you prioritize incidents when multiple alerts are triggered simultaneously?
+5. Describe a challenging security incident you've investigated and how you resolved it.
+6. How do you maintain chain of custody during a security investigation?
+7. What are the key artifacts you look for when investigating a potentially compromised Windows system?
+8. What are the key artifacts you look for when investigating a potentially compromised Linux system?
+9. How do you approach memory forensics? What tools do you use?
+10. Explain your methodology for malware analysis.
+11. How do you document and communicate findings during an investigation?
+12. What considerations are important when performing incident response in cloud environments versus on-premises?
+13. How do you determine patient zero and the initial infection vector during an incident?
+14. Describe how you would investigate a potential data breach.
+15. What techniques would you use to determine the scope and impact of an incident?
+16. How do you balance between quick containment and thorough investigation during an active incident?
+17. How would you investigate suspicious activity in containerized or ephemeral environments?
+18. What's your approach to post-incident analysis and implementing lessons learned?
+19. How do you ensure your incident response process complies with relevant regulations (GDPR, HIPAA, etc.)?
+20. Describe how you would determine if an attacker still has access to your environment after an incident.
+21. How would you investigate an incident where logs may have been tampered with?
 
 ## General Security Knowledge
 
