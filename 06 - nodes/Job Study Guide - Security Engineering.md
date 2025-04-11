@@ -4,7 +4,7 @@
 
 1. Describe a security automation you've implemented. What problem did it solve and what technologies did you use?
 2. How would you use Python to parse and analyze logs for suspicious activity?
-3. What experience do you have with security orchestration platforms (e.g., Splunk SOAR, Rapid7 InsightConnect, Tines)? Give examples of playbooks you've created.
+3. What experience do you have with security orchestration platforms (e.g., Splunk SOAR, Rapid7 Insight Connect, Tines)? Give examples of playbooks you've created.
 4. Explain how you would create an automated alert triage system. What APIs would you leverage?
 5. How would you approach automating vulnerability scanning in a CI/CD pipeline?
 6. Describe how you'd use APIs to integrate different security tools. What challenges might you encounter?
