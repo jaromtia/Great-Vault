@@ -1,6 +1,6 @@
 #cybersecurity-concepts 
 
-# Job Study
+# Job Study 
 
 1. Describe a security automation you've implemented. What problem did it solve and what technologies did you use?
 2. How would you use Python to parse and analyze logs for suspicious activity?
