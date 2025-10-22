@@ -83,5 +83,39 @@ What should the company consider?
 
 **Key performance indicators (KPIs)**
 
+A company has discovered a vulnerability in its Kubernetes deployment that allows attackers to execute commands on the Kubernetes cluster's nodes. The company has decided to implement risk mitigation processes to address this vulnerability.  
+   
+Which risk mitigation process is the most effective in mitigating the vulnerability associated with the Kubernetes deployment?
+**Implementing network segmentation to isolate the Kubernetes nodes from the rest of the network**
+
+An organization has recently signed a contract with a new vendor to provide a critical service. The service will involve the vendor having access to sensitive customer data. The organization's management is concerned about the risks associated with using a new vendor and wants to know the best ways to mitigate those risks.  
+   
+Which strategy will meet the needs of the company?
+
+**Conducting a vendor viability assessment to ensure the vendor has the necessary resources and expertise to provide the service**
+
+A financial institution is concerned about the potential risks associated with unauthorized access to sensitive data on its servers. The company has decided to implement hardening techniques and endpoint security controls to mitigate the risk.  
+   
+Which technique will provide a secure operating system with access controls for user applications?
+
+**SELinux**
+
+  
+A company is concerned about the potential risks associated with unauthorized access to its cloud infrastructure. The company has decided to implement security controls to mitigate the risk.  
+   
+Which actions can ensure the integrity and authenticity of the cloud infrastructure and applications?
+
+**Implementing attestation services**
+
+An enterprise is deploying a new software application that requires a cryptographic protocol to secure data transmission. The application will be used to process sensitive customer information, and the company wants to ensure that the data is protected during transmission.  
+   
+Which cryptographic protocol meets the needs of the enterprise?
+
+**Transport Layer Security (TLS) with Advanced Encryption Standard (AES)**
+
+Which statement describes the role of risk tolerance in the development of a financial services company's mobile application for managing customer accounts and on-the-go transactions?
+
+**Risk tolerance helps the company determine the acceptable level of risk for the mobile application based on its potential impact on the company and its customers**
+
 
 ## 🔗 Related links
