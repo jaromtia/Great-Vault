@@ -117,5 +117,39 @@ Which statement describes the role of risk tolerance in the development of a fin
 
 **Risk tolerance helps the company determine the acceptable level of risk for the mobile application based on its potential impact on the company and its customers**
 
+A software company uses a structured query language (SQL) database to store customer data, such as names, addresses, and credit card information. The IT security team has identified several potential vulnerabilities that could result in a data breach, including SQL injection attacks and weak authentication controls.   
+   
+Which risk management strategy can reduce the risk of a data breach?
 
+**Enforcing strong authentication controls and limiting access to the SQL database to help prevent unauthorized access**
+
+Which security control will secure a web-based credit monitoring service and protect credit information of consumers in compliance with Fair Credit Reporting Act (FCRA) requirements?
+
+**Access controls**
+
+A regional hospital with budget constraints stores critical patient information and medical records on local servers.   
+   
+Which type of disaster recovery site will ensure that the hospital can quickly resume operations in case of a disaster?
+
+**A warm site that is partially equipped with the necessary hardware and software to be operational in a short period of time**
+
+An e-commerce company is developing a disaster recovery plan and wants to determine how long its systems or applications can be down before causing significant harm to the business.  
+   
+What is the term used to describe this metric?
+
+**Maximum tolerable downtime (MTD)**
+
+  
+A company's website is a critical component of their business operations. However, due to an unexpected disaster, their website is experiencing a high volume of traffic, which is negatively affecting its performance. As part of their disaster recovery plan, the company is looking for a solution that can improve website speed and performance.  
+   
+Which solution will meet the needs of the company?
+
+**Content delivery network (CDN)**
+
+  
+A company is developing its disaster recovery plan and wants to ensure the security of its data, even in the event of a major disaster. The IT team is considering using a tool that provides visibility into cloud applications and enforces data security policies.  
+   
+Which tool will meet the needs of the company?
+
+**Cloud access security broker (CASB)**
 ## 🔗 Related links
