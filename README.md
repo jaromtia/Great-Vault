@@ -3,7 +3,8 @@ Welcome to my Great-Vault where I plan to put all of my notes for learning and s
 
 ## 1/10/2025 Graph
 
-<img width="548" alt="image" src="https://github.com/user-attachments/assets/8ffaa044-1781-41b9-89e0-93bc370b3bcd" />
+<img width="950" height="870" alt="image" src="https://github.com/user-attachments/assets/482abc86-2061-4ed3-a92b-29c1475fbc86" />
+
 
 # Organization: 
 ## 00 - notes
