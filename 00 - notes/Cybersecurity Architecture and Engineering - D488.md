@@ -5,7 +5,7 @@ updated_date: <% tp.file.creation_date('YYYY-MM-DD') %>
 type: course
 ---
 
-# 📚 <% tp.file.title %>
+# 📚 Cybersecurity Architecture and Engineering - D488
 - **🏷️Tags** :   #<% tp.file.creation_date('MM-YYYY') %> #course 
 ## 📝 Notes
 - 
