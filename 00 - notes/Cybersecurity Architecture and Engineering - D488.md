@@ -55,7 +55,7 @@ The security operations center (SOC) team for a global company is planning an in
    
 Which type of network should be scanned based on the requirements?
 
-**Deep web**
+**[[Deep web]]**
 
 An electric power and water utility company has recently added a cybersecurity division. The security operations center (SOC) team has been tasked with leveraging an investigative framework that can accurately assess the motives, means, and opportunities associated with common security attacks.   
    
@@ -68,7 +68,7 @@ A company operates a customer service call center with over one hundred agents t
    
 Which solution will defend against this issue?
 
-**Data loss prevention (DLP)**
+**Data loss prevention ([[DLP]])**
 
 A company wants to implement a policy to reduce the risk of unauthorized access to sensitive information.   
    
@@ -81,7 +81,7 @@ A company is developing a cybersecurity risk management program and wants to est
    
 What should the company consider?
 
-**Key performance indicators (KPIs)**
+**Key performance indicators ([[KPI]]s)**
 
 A company has discovered a vulnerability in its Kubernetes deployment that allows attackers to execute commands on the Kubernetes cluster's nodes. The company has decided to implement risk mitigation processes to address this vulnerability.  
    
@@ -111,7 +111,7 @@ An enterprise is deploying a new software application that requires a cryptograp
    
 Which cryptographic protocol meets the needs of the enterprise?
 
-**Transport Layer Security (TLS) with Advanced Encryption Standard (AES)**
+**Transport Layer Security ([[TLS]]) with Advanced Encryption Standard ([[AES]])**
 
 Which statement describes the role of risk tolerance in the development of a financial services company's mobile application for managing customer accounts and on-the-go transactions?
 
@@ -137,19 +137,19 @@ An e-commerce company is developing a disaster recovery plan and wants to determ
    
 What is the term used to describe this metric?
 
-**Maximum tolerable downtime (MTD)**
+**Maximum tolerable downtime ([[MTD]])**
 
   
 A company's website is a critical component of their business operations. However, due to an unexpected disaster, their website is experiencing a high volume of traffic, which is negatively affecting its performance. As part of their disaster recovery plan, the company is looking for a solution that can improve website speed and performance.  
    
 Which solution will meet the needs of the company?
 
-**Content delivery network (CDN)**
+**Content delivery network ([[CDN]])**
 
   
 A company is developing its disaster recovery plan and wants to ensure the security of its data, even in the event of a major disaster. The IT team is considering using a tool that provides visibility into cloud applications and enforces data security policies.  
    
 Which tool will meet the needs of the company?
 
-**Cloud access security broker (CASB)**
+**Cloud access security broker ([[CASB]])**
 ## 🔗 Related links
