@@ -106,7 +106,7 @@ A company is concerned about the potential risks associated with unauthorized ac
    
 Which actions can ensure the integrity and authenticity of the cloud infrastructure and applications?
 
-**Implementing attestation services**
+**Implementing [[attestation services]]**
 
 An enterprise is deploying a new software application that requires a cryptographic protocol to secure data transmission. The application will be used to process sensitive customer information, and the company wants to ensure that the data is protected during transmission.  
    
