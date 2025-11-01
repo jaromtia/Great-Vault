@@ -105,7 +105,7 @@ Which technique will provide a secure operating system with access controls for 
 A company is concerned about the potential risks associated with unauthorized access to its cloud infrastructure. The company has decided to implement security controls to mitigate the risk.  
    
 Which actions can ensure the integrity and authenticity of the cloud infrastructure and applications?
-
+  
 **Implementing [[attestation services]]**
 
 An enterprise is deploying a new software application that requires a cryptographic protocol to secure data transmission. The application will be used to process sensitive customer information, and the company wants to ensure that the data is protected during transmission.  
