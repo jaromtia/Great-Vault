@@ -4,6 +4,8 @@ created_date: <% tp.file.creation_date('YYYY-MM-DD') %>
 updated_date: <% tp.file.creation_date('YYYY-MM-DD') %>
 type: course
 ---
+This is what I currently have in obsidian. Make the notes look more organized:
+
 
 # 📚 Cybersecurity Architecture and Engineering - D488
 - **🏷️Tags** :   #<% tp.file.creation_date('MM-YYYY') %> #course 
