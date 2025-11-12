@@ -124,7 +124,7 @@ A software company uses a structured query language ([[SQL]]) database to store 
    
 Which risk management strategy can reduce the risk of a data breach?
 
-**Enforcing strong authentication controls and limiting access to the SQL database to help prevent unauthorized access**
+**Enforcing strong [[authentication controls]] and limiting access to the SQL database to help prevent unauthorized access**
 
 Which security control will secure a web-based credit monitoring service and protect credit information of consumers in compliance with Fair Credit Reporting Act (FCRA) requirements?
 
@@ -141,7 +141,6 @@ An e-commerce company is developing a disaster recovery plan and wants to determ
 What is the term used to describe this metric?
 
 **Maximum tolerable downtime ([[MTD]])**
-
   
 A company's website is a critical component of their business operations. However, due to an unexpected disaster, their website is experiencing a high volume of traffic, which is negatively affecting its performance. As part of their disaster recovery plan, the company is looking for a solution that can improve website speed and performance.  
    
