@@ -1,1 +1,2 @@
-unified threat management
+A single appliance that combines multiple security features such as firewall, IDS/IPS, antivirus, and content filtering.
+Provides intrusion detection, spam filtering, content filtering, and antivirus in one device, minimizing infrastructure.

@@ -1,0 +1,2 @@
+A method that uses two separate communication channels to verify a user’s identity.
+Required when the app must authenticate through two distinct channels — adds security by separating the authentication path.

@@ -26,7 +26,7 @@ An IT security team has been notified that external contractors are using their 
    
 Which solution fulfills these requirements?
 
-**Implementing port security**
+**Implementing [[port security]]**
 
 The chief technology officer for a small publishing company has been tasked with improving the company's security posture. As part of a network upgrade, the company has decided to implement intrusion detection, spam filtering, content filtering, and antivirus controls. The project needs to be completed using the least amount of infrastructure while meeting all requirements.   
    
@@ -118,7 +118,7 @@ Which cryptographic protocol meets the needs of the enterprise?
 
 Which statement describes the role of risk tolerance in the development of a financial services company's mobile application for managing customer accounts and on-the-go transactions?
 
-**Risk tolerance helps the company determine the acceptable level of risk for the mobile application based on its potential impact on the company and its customers**
+**[[Risk tolerance]] helps the company determine the acceptable level of risk for the mobile application based on its potential impact on the company and its customers**
 
 A software company uses a structured query language ([[SQL]]) database to store customer data, such as names, addresses, and credit card information. The IT security team has identified several potential vulnerabilities that could result in a data breach, including SQL injection attacks and weak authentication controls.   
    
