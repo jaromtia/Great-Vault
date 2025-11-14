@@ -1,0 +1,6 @@
+provide a reliable method of verifying the identity of users, devices, and servers. Digital certificates are issued by Certificate Authorities (CAs) and contain public keys used for asymmetric encryption. Some practical examples of digital certificate use:
+
+- When visiting a secure website, the browser uses the site's digital certificate to authenticate the server's identity and the public key to share a session key securely.
+- Certificate-based authentication can replace or supplement traditional username and password methods for VPN access. Each user or device is issued a digital certificate, and when connecting to the VPN, the device presents its certificate, which the VPN server then verifies before establishing a secure connection. This technique ensures that only authorized devices can access the environment.
+- A financial services organization might use certificate-based authentication to ensure that only authorized applications can access sensitive financial data through an API.
+- Digital certificates can be stored on smart cards. When a user inserts their smart card into a reader, the IAM system can use the certificate to authenticate the user.

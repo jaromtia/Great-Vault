@@ -170,4 +170,10 @@ Authenticated Encryption with Association Data ([[AEAD]])
 [[Data at rest]]
 [[Data in transit]]
 [[Data in use or in processing]]
+[[Digital certificates]]
+[[Data sanitization]]
+[[Hashing]]
+[[Data anonymization]]
+[[Elliptic Curve]]
+
 ## 🔗 Related links

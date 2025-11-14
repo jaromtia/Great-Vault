@@ -1,0 +1,1 @@
+the process of permanently removing or concealing sensitive information to ensure it cannot be reconstructed or recovered and is especially important when disposing of hardware.
