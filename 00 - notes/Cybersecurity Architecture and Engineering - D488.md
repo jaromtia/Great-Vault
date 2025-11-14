@@ -161,4 +161,13 @@ Which tool will meet the needs of the company?
 [[Key Stretching]]
 [[Key Splitting]]
 [[Envelope Encryption]]
+[[Homomorphic Encryption]]
+[[SMC]]
+[[Perfect forward secrecy]]
+[[Mutual Authentication]]
+Authenticated Encryption with Association Data ([[AEAD]])
+[[AES]]
+[[Data at rest]]
+[[Data in transit]]
+[[Data in use or in processing]]
 ## 🔗 Related links
