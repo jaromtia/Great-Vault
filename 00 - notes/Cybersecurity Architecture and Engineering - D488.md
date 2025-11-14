@@ -175,5 +175,7 @@ Authenticated Encryption with Association Data ([[AEAD]])
 [[Hashing]]
 [[Data anonymization]]
 [[Elliptic Curve]]
+[[Blockchain]]
+[[Immutable Records]]
 
 ## 🔗 Related links
