@@ -154,4 +154,11 @@ A company is developing its disaster recovery plan and wants to ensure the secur
 Which tool will meet the needs of the company?
 
 **Cloud access security broker ([[CASB]])**
+
+# Terms
+## Cryptography
+[[PQC]]
+[[Key Stretching]]
+[[Key Splitting]]
+[[Envelope Encryption]]
 ## 🔗 Related links
