@@ -156,11 +156,8 @@ Which tool will meet the needs of the company?
 **Cloud access security broker ([[CASB]])**
 
 # Terms
-## Governance
-### [[Security Program Documentation]]
-### [[Security Program Managament]]
-### [[Governance Frameworks]]
-### [[Configuration management]]
+## [[Governance]]
+## [[Legal Compliance]]
 ## [[Cryptography]]
 [[Data at rest]]
 [[Data in transit]]
