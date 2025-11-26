@@ -156,7 +156,7 @@ Which tool will meet the needs of the company?
 **Cloud access security broker ([[CASB]])**
 
 # Terms
-## Cryptography
+## [[Cryptography]]
 [[PQC]]
 [[Key Stretching]]
 [[Key Splitting]]
@@ -177,7 +177,8 @@ Authenticated Encryption with Association Data ([[AEAD]])
 [[Elliptic Curve]]
 [[Blockchain]]
 [[Immutable Records]]
-[[Configuration Drift]]
-[[Routing Errors]]
-[[Switching Errors]]
+
+
+[[Network Misconfigurations]]
+
 ## 🔗 Related links
