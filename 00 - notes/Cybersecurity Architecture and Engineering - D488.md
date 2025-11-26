@@ -177,5 +177,7 @@ Authenticated Encryption with Association Data ([[AEAD]])
 [[Elliptic Curve]]
 [[Blockchain]]
 [[Immutable Records]]
-
+[[Configuration Drift]]
+[[Routing Errors]]
+[[Switching Errors]]
 ## 🔗 Related links
