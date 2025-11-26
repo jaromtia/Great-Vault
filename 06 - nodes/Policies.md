@@ -1,0 +1,1 @@
+Policies are the cornerstone documents within any organization. Broad in scope and authoritative in nature, policies provide a high-level, somewhat generalized statement of beliefs, goals, and objectives associated with different aspects of governance, risk, and compliance. Policies establish the foundation for more detailed documents that guide specific actions and behaviors.

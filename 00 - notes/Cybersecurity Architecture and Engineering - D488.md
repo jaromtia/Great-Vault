@@ -156,17 +156,11 @@ Which tool will meet the needs of the company?
 **Cloud access security broker ([[CASB]])**
 
 # Terms
+## Governance
+### [[Security Program Documentation]]
+### [[Security Program Managament]]
+
 ## [[Cryptography]]
-[[PQC]]
-[[Key Stretching]]
-[[Key Splitting]]
-[[Envelope Encryption]]
-[[Homomorphic Encryption]]
-[[SMC]]
-[[Perfect forward secrecy]]
-[[Mutual Authentication]]
-Authenticated Encryption with Association Data ([[AEAD]])
-[[AES]]
 [[Data at rest]]
 [[Data in transit]]
 [[Data in use or in processing]]
@@ -177,8 +171,6 @@ Authenticated Encryption with Association Data ([[AEAD]])
 [[Elliptic Curve]]
 [[Blockchain]]
 [[Immutable Records]]
-
-
-[[Network Misconfigurations]]
+## [[Network Misconfigurations]]
 
 ## 🔗 Related links

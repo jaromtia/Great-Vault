@@ -1,0 +1,10 @@
+[[PQC]]
+[[Key Stretching]]
+[[Key Splitting]]
+[[Envelope Encryption]]
+[[Homomorphic Encryption]]
+[[SMC]]
+[[Perfect forward secrecy]]
+[[Mutual Authentication]]
+Authenticated Encryption with Association Data ([[AEAD]])
+[[AES]]
