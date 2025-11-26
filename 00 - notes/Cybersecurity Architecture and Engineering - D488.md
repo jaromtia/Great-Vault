@@ -160,6 +160,7 @@ Which tool will meet the needs of the company?
 ### [[Security Program Documentation]]
 ### [[Security Program Managament]]
 ### [[Governance Frameworks]]
+### [[Configuration management]]
 ## [[Cryptography]]
 [[Data at rest]]
 [[Data in transit]]
