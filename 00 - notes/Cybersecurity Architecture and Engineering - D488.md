@@ -156,8 +156,11 @@ Which tool will meet the needs of the company?
 **Cloud access security broker ([[CASB]])**
 
 # Terms
-## [[Governance]]
-## [[Legal Compliance]]
+## [[GRC]]
+
+
+
+
 ## [[Cryptography]]
 [[Data at rest]]
 [[Data in transit]]
