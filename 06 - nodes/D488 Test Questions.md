@@ -6,7 +6,18 @@ Identification of potential threats
 
 Identification of risk responses
 
-Identification of known vulnerabilities
+**Identification of known vulnerabilities**
 
 Identification of mission-critical functions
 
+What is a subprocessor in the context of data protection regulations like GDPR?
+
+answer
+
+A third-party vendor that processes data on behalf of another company.
+
+A software tool used for data encryption.
+
+A primary data controller
+
+A government agency that oversees data protection.
