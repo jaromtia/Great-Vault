@@ -1,0 +1,13 @@
+Impact analysis requires careful examination of the potential consequences of security incidents on an organization's systems, data, operations, and reputation. The intent and purpose of impact analysis is to help organizations understand the severity of potential threats and prioritize their responses accordingly.
+
+In particular, impact analysis starts by identifying critical assets and processes within an organization's infrastructure. These assets, which often include sensitive data, network capabilities, systems, and applications, are the key focus. Once these are identified, analysts can assess the potential impact of security incidents on these assets using various techniques.
+
+One common method is scenario-based analysis, where analysts create hypothetical scenarios representing different threats, such as data breaches, malware infections, or denial-of-service attacks. Generally, a team is responsible for assessing these events to determine the impact of each scenario on the organization's operations, financials, regulatory compliance, and reputation.
+
+Likelihood and plausibility are critical factors influencing impact assessment. Analysts must consider the likelihood of each scenario occurring, drawing from historical data, threat intelligence, system vulnerabilities, and organizational risk factors. They often utilize qualitative and quantitative risk assessment techniques to assign probabilities to different threat scenarios, such as the likelihood of a successful phishing attack or the probability of a ransomware infection.
+
+Note:
+
+"Extreme but plausible" cyber events are possible security incidents that could have a significant and disruptive impact if they occur, although they are not necessarily common. These events reflect situations that may appear unlikely. However, they are still feasible based on an analysis of existing cyber threats, vulnerabilities, and attack vectors.
+
+For extreme but plausible impacts, organizations often adopt a proactive approach to managing these risks, which involves implementing robust security controls and measures to mitigate the likelihood of such events. For example, organizations might invest in advanced threat detection systems, employee training programs, and regular security assessments to reduce the risk of severe cyber incidents. It might also include moving the location of critical operations into areas less prone to natural disasters.
