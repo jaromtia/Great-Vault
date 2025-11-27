@@ -119,3 +119,23 @@ Wait for the attackers to contact you before taking any action.
 **Assess the scope and impact of the ransomware attack and contain it to prevent further damage.**
 
 Start a new marketing campaign to distract from the incident.
+
+#### Your organization is preparing for an ISO/IEC 27001 certification audit. Which of the following actions should you prioritize to ensure compliance?
+
+Implement controls to prevent fraud and protect credit and debit card data.
+
+Develop a risk treatment plan based on the results of a risk assessment.
+
+Ensure fair competition and prevent anticompetitive practices within the organization.
+
+Adhere to stringent security measures mandated for large digital platforms
+
+#### Why is it important to balance AI autonomy with human control?
+
+To increase the speed of decision-making
+
+To reduce the cost of operations
+
+To ensure accountability and manage ethical concerns
+
+To eliminate the need for human intervention
