@@ -116,6 +116,6 @@ Focus on legal compliance and ignore technical recovery.
 
 Wait for the attackers to contact you before taking any action.
 
-Assess the scope and impact of the ransomware attack and contain it to prevent further damage.
+**Assess the scope and impact of the ransomware attack and contain it to prevent further damage.**
 
 Start a new marketing campaign to distract from the incident.
