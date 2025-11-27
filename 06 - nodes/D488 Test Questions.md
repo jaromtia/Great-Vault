@@ -84,3 +84,38 @@ By implementing VLAN segmentation
 By utilizing a jump box
 
 By creating a screened subnet
+
+#### You are an IT security analyst tasked with ensuring the integrity of digital content shared on your company's social media platforms. You suspect that some images might have been manipulated.
+
+Which technique would you use to verify the authenticity of these images?
+
+
+Compress the images to check for any loss of quality.
+
+Generate random metadata for the images to compare with the original.
+
+Encrypt the images using a strong encryption algorithm.
+
+Use reverse image searching to trace the origin and any alterations.
+
+#### Given the importance of data governance in staging environments, which of the following practices would you evaluate as most critical to implement first to ensure data security and compliance?
+
+Enhancing the user interface for easier data management
+
+Increasing the storage capacity of the staging environment
+
+Reducing the number of environments to simplify management
+
+Implementing strict access controls and data masking techniques
+
+#### Your organization has just experienced a ransomware attack that has encrypted critical business data.
+
+As a member of the crisis management team, what should be your immediate priority?
+
+Focus on legal compliance and ignore technical recovery.
+
+Wait for the attackers to contact you before taking any action.
+
+Assess the scope and impact of the ransomware attack and contain it to prevent further damage.
+
+Start a new marketing campaign to distract from the incident.
